@@ -48,7 +48,7 @@ I specialize in building reliable, fault-tolerant backend systems, containerized
 ### 🌐 Let's Connect!
 *   **Portfolio:** [techfoliodhruv.vercel.app](https://techfoliodhruv.vercel.app)
 *   **LinkedIn:** [linkedin.com/in/dgbhanderi20](https://www.linkedin.com/in/dgbhanderi20)
-*   **Email:** [dgbhande@iu.edu](mailto:dgbhande@iu.edu)
+*   **Email:** [dgbhande@iu.edu](mailto:dgbhanderi20@gmail.com)
 *   **Instagram:** [@techfolio.dhruv](https://www.instagram.com/techfolio.dhruv)
 *   **Threads:** [@techfolio.dhruv](https://www.threads.com/@techfolio.dhruv)
 <!--
