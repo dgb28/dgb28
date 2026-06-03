@@ -36,10 +36,12 @@ I specialize in building reliable, fault-tolerant backend systems, containerized
 
 | Category | Technologies |
 | --- | --- |
-| **Languages** | Python, TypeScript, JavaScript, Go, C++, SQL, HTML/CSS |
-| **Frameworks & Libs** | React, Next.js, FastAPI, Node.js, Express, Flask, LangChain, PyTorch |
-| **Cloud & DevOps** | Google Cloud Platform (GCP ACE), AWS, Docker, Kubernetes, CI/CD, Git |
-| **Databases & Tools** | PostgreSQL, MySQL, Redis, MongoDB, GraphQL |
+| **Languages** | Python, TypeScript, JavaScript, Java, C++, SQL |
+| **Frameworks & Libs** | Flask, Celery, SQLAlchemy, React, Node.js, Next.js, Redux, Flutter |
+| **Cloud & DevOps** | Google Cloud Platform (GCP), AWS, Docker, Kubernetes, Terraform, CI/CD, Git |
+| **Databases & Tools** |  PostgreSQL, MongoDB, NoSQL, Redis, Vector Databases, BigQuery |
+| **Testing** |  Jest, Pytest, Cypress, Junit Testing, A/B Testing |
+| **AI/ML** | Prompt engineering, Large Language Models (LLMs), RAG, LangChain, LlamaIndex, MCP |
 
 ---
 
