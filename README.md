@@ -12,17 +12,17 @@ I specialize in building reliable, fault-tolerant backend systems, containerized
 
 #### [BackOps.AI](https://github.com/dgb28/BackOps.AI) (Hackathon Winner)
 *Autonomous AI Agent Platform for Back-Office Workflow Automation*
-*   **Tech Stack:** Python, LangChain, OpenAI APIs, React, Next.js, Node.js
+*   **Tech Stack:** Python, OpenAI APIs, Jinja2, FastAPI
 *   **Impact:** Built agentic workflows that automate data ingestion and analysis, reducing manual tasks and accelerating business reporting speeds.
 
 #### [CloudMart](https://github.com/dgb28/CloudMart)
 *Microservices-Based E-Commerce Platform*
-*   **Tech Stack:** React, Next.js, Node.js, GCP, Docker, Kubernetes, GitHub Actions
+*   **Tech Stack:**  AWS, GCP, Azure, Terraform, Docker, Kubernetes, React
 *   **Impact:** Deployed a containerized microservices stack to Google Kubernetes Engine (GKE), configuring automated CI/CD pipelines and observability dashboards (Prometheus/Grafana).
 
 #### [TranscriptoAI](https://github.com/dgb28/TranscriptoAI)
 *AI-Powered Speech-to-Text Processing Pipeline*
-*   **Tech Stack:** Python, Whisper AI, FastAPI, React, PostgreSQL
+*   **Tech Stack:** Python, OpenAI Whisper, FastAPI, React
 *   **Impact:** Built a pipeline handling audio uploads, transcription, and automated summarization using LLMs with robust error-handling.
 
 #### [MRedditSum](https://github.com/dgb28/MRedditSum)
