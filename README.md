@@ -1,6 +1,6 @@
 # Hi, I'm Dhruv Bhanderi 👋
 
-Backend-focused Software Engineer and Cloud Developer pursuing with MS in Computer Science from **Indiana University Bloomington** (GPA: 3.64/4.0). Google Cloud Platform (GCP) Certified Associate Cloud Engineer. 
+Software Engineer with experience in backend development and hands on experience with Devops and Cloud services. Pursuing MS in Computer Science from **Indiana University Bloomington** (GPA: 3.64/4.0). Google Cloud Platform (GCP) Certified Associate Cloud Engineer. 
 
 I specialize in building reliable, fault-tolerant backend systems, containerized cloud-native architectures, and production-grade full-stack/AI services.
 
